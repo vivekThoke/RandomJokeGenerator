@@ -1,0 +1,27 @@
+.container {
+    text-align: center;
+    margin-top: 230px;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+p {
+    margin-top: 50px;
+    font-size: 20px;
+    font-weight: bold;
+}
